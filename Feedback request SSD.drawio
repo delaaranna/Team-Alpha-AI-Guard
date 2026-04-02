@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.2.9 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="thOGXO2WOFmXbuI4TIKg">
+    <mxGraphModel dx="1090" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VyDjmLBahQzt9ZJBfcN9-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="" vertex="1">
+          <mxGeometry height="300" width="20" x="300" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VyDjmLBahQzt9ZJBfcN9-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="" vertex="1">
+          <mxGeometry height="300" width="20" x="560" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VyDjmLBahQzt9ZJBfcN9-5" edge="1" parent="1" source="VyDjmLBahQzt9ZJBfcN9-2" style="endArrow=classic;html=1;rounded=0;" target="VyDjmLBahQzt9ZJBfcN9-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="340" />
+            </Array>
+            <mxPoint x="400" y="450" as="sourcePoint" />
+            <mxPoint x="450" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VyDjmLBahQzt9ZJBfcN9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="user is prompted for feedback" vertex="1">
+          <mxGeometry height="30" width="110" x="390" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VyDjmLBahQzt9ZJBfcN9-7" edge="1" parent="1" source="VyDjmLBahQzt9ZJBfcN9-1" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;" target="VyDjmLBahQzt9ZJBfcN9-2" value="">
+          <mxGeometry height="60" relative="1" width="60" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="450" />
+            </Array>
+            <mxPoint x="569.5" y="490" as="sourcePoint" />
+            <mxPoint x="309.5" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VyDjmLBahQzt9ZJBfcN9-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User sends feedback" vertex="1">
+          <mxGeometry height="30" width="110" x="390" y="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
